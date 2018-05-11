@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">WhatsApp Status</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Share</string>
+
+
+    <string name="save_successful_message">Saved To Gallery!</string>
+    <string name="save_error_message">Could not save,Try again later</string>
+    <string name="title_pics">You have not watched any whatsapp status currently,Once you watch a whatsapp status,it will automatically show here for you to download</string>
+    <string name="title_videos">Vids</string>
+    <string name="title_videos2">Vids</string>
+
+
+    <string name="admob_app_id">ca-app-pub-8889413606728389~7169953719</string>
+    <string name="banner_home_footer_unit_id">ca-app-pub-8889413606728389/3266313823</string>
+
+</resources>
